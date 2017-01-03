@@ -1,0 +1,27 @@
+{
+  "name": "ubexpense",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chrisenytc/ubexpense.git"
+  },
+  "license": "MIT",
+  "isOptional": true,
+  "title": "UbExpense",
+  "description": "A Nylas N1 plugin to help people see how much they had spent with Uber",
+  "icon": "./icon.png",
+  "engines": {
+    "nylas": ">=0.4.402"
+  },
+  "dependencies": {
+    "bluebird": "3.4.7",
+    "lodash": "4.17.4",
+    "moment": "2.17.1",
+    "moment-timezone": "0.5.11"
+  },
+  "windowTypes": {
+    "default": true,
+    "composer": true
+  }
+}
