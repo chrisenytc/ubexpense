@@ -1,5 +1,5 @@
 
-# UbExpense
+# UbExpense - BETA
 
 > A Nylas N1 plugin to help people see how much they had spent with Uber.
 
