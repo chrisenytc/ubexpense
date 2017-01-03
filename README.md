@@ -11,11 +11,11 @@
 
 1. Download and run N1
 
-2. Download the latest version of ![UbExpense](https://github.com/chrisenytc/ubexpense/releases/latest)
+2. Download the latest version of [UbExpense](https://github.com/chrisenytc/ubexpense/releases/latest)
 
 3. Navigate to Preferences > Plugins and click "Enable" beside the plugin.
 
-4. You also will need to change some personal constants on ![lib/calculate-button.jsx](lib/calculate-button.jsx#L16)
+4. You also will need to change some personal constants on [lib/calculate-button.jsx](lib/calculate-button.jsx#L16)
 
 ## Build documentation
 
